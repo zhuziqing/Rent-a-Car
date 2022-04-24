@@ -1,0 +1,33 @@
+p{
+  text-align: center;
+
+}
+.recipe{
+  text-align: center;
+  color : blue;
+  display: block;
+}
+
+h3{display: inline-block;
+  }
+h4{
+  color:red;
+  text-align: center;
+}
+#first{
+  padding-top: 30px;
+  padding-left: 400px;
+  padding-bottom: 10px;
+}
+#second{
+  padding-top: 50px;
+}
+
+table, th,td{
+border: 1px solid black;
+border-collapse: collapse;
+}
+th,td{
+padding: 5px;
+text-align: left;
+}
